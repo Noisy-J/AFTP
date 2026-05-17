@@ -1,0 +1,4 @@
+SERVER=111.1.111.11
+USERNAME=username
+PASSWORD=password
+PORT=21

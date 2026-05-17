@@ -1,0 +1,6 @@
+[PROFILE]
+NAME=my server
+SERVER=111.1.111.11
+PORT=21
+USERNAME=username
+PASSWORD=password
