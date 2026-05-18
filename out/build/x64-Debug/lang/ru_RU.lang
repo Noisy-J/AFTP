@@ -1,0 +1,30 @@
+[Language]
+name = Русский
+code = ru
+
+[Strings]
+app_title = AFTP - Альтернативный FTP клиент
+connected = ПОДКЛЮЧЕН
+not_connected = НЕ ПОДКЛЮЧЕН
+server = Сервер
+folder = Папка
+files_folders = ФАЙЛЫ И ПАПКИ
+empty = ПУСТО
+commands = КОМАНДЫ
+up = Вверх
+down = Вниз
+open = Открыть папку
+back = Назад
+download = Скачать
+upload = Загрузить
+delete = Удалить
+create_folder = Создать папку
+rename = Переименовать
+info = Информация
+refresh = Обновить
+edit = Редактировать
+tree = Дерево файлов
+settings = Настройки
+disconnect = Отключиться
+history = История
+exit = Выход

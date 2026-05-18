@@ -1,0 +1,30 @@
+[Language]
+name = English
+code = en
+
+[Strings]
+app_title = AFTP - Alternative FTP Client
+connected = CONNECTED
+not_connected = NOT CONNECTED
+server = Server
+folder = Folder
+files_folders = FILES AND FOLDERS
+empty = EMPTY
+commands = COMMANDS
+up = Up
+down = Down
+open = Open folder
+back = Back
+download = Download
+upload = Upload
+delete = Delete
+create_folder = Create folder
+rename = Rename
+info = Info
+refresh = Refresh
+edit = Edit
+tree = File tree
+settings = Settings
+disconnect = Disconnect
+history = History
+exit = Exit
